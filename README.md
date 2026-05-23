@@ -6,9 +6,8 @@
 ### 🙋‍♂️ About Me
 - 🎓 Final Year ECE Student at **JNNCE, Shivamogga (VTU)**
 - 💻 Currently learning **Java Full Stack Development** at JSpiders, Bengaluru
-- 🚀 Building real-world projects to land my first dev job
+- 🚀 Passionate about solving real-world problems through code
 - 📍 Based in **Shivamogga, Karnataka**
-- 📫 Reach me at **swamy.n1707@gmail.com**
 
 <br/>
 
@@ -17,8 +16,8 @@
 **Languages**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Database**
 
