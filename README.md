@@ -5,7 +5,7 @@
 📍 Shivamogga, Karnataka
 
 ## 🛠️ Tech Stack
-- **Languages:** Core Java, HTML, CSS
+- **Languages:** C,Core Java, HTML, CSS
 - **Database:** Oracle SQL
 - **Tools:** Eclipse IDE, Visual Studio Code
 
