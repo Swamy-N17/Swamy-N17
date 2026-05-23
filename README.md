@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Swamy N 👋
 
-<!--
-**Swamy-N17/Swamy-N17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year ECE Student at JNNCE, Shivamogga (VTU) — 2026
+💻 Java Full Stack Developer in the making
+📍 Shivamogga, Karnataka
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Core Java, HTML, CSS
+- **Database:** Oracle SQL
+- **Tools:** Eclipse IDE, Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🏥 **QR Code Based Health Record System** — Role-based health records with QR scanning
+- 🤖 **IoT Health Monitoring System** — Real-time patient vitals monitoring
+- 📋 **Student Management System** *(Work in Progress)*
+
+## 📫 Connect with me
+- 📧 swamy.n1707@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/swamy-n17)
