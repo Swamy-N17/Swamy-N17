@@ -12,12 +12,12 @@
 
 ## 👨‍💻 About Me
 
-🎓 2026 B.E. graduate in Electronics & Communication Engineering from JNNCE, Shivamogga (VTU) — CGPA 8.28
-💻 Completed Java Full Stack Development training at JSpiders, Bengaluru
-🚀 Hands-on experience with Java, SQL, Hibernate, Spring, Spring Boot, HTML, CSS, and JavaScript
-🏗️ Built and deployed full-stack applications using Java and Spring Boot through hands-on project development
-🌱 Currently strengthening my backend development skills and deepening my understanding of Spring, Spring Boot, REST APIs, and JavaScript
-⚡ With an Electronics & Communication Engineering background, I'm passionate about software development and building practical applications.
+- 🎓 2026 B.E. graduate in Electronics & Communication Engineering from JNNCE, Shivamogga (VTU) — CGPA 8.28
+- 💻 Completed Java Full Stack Development training at JSpiders, Bengaluru
+- 🚀 Hands-on experience with Java, SQL, Hibernate, Spring, Spring Boot, HTML, CSS, and JavaScript
+- 🏗️ Built and deployed full-stack applications using Java and Spring Boot through hands-on project development
+- 🌱 Currently strengthening my backend development skills and deepening my understanding of Spring, Spring Boot, REST APIs, and JavaScript
+- ⚡ With an Electronics & Communication Engineering background, I'm passionate about software development and building practical applications
 
 ---
 
@@ -25,15 +25,28 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,spring,mysql&perline=6" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🗄️_SQL-4479A1?style=flat-square&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" height="28"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="28"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="28"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="28"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" height="28"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height="28"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/📦_JPA-59666C?style=flat-square&logoColor=white" height="28"/>
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/🌀_Hibernate-59666C?style=flat-square&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/📦_Spring_Data_JPA-6DB33F?style=flat-square&logoColor=white" height="28"/>
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/🔌_JDBC-E76F00?style=flat-square&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/🔶_Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" height="28"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="28"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" height="28"/>
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/🌐_REST_APIs-009688?style=flat-square&logoColor=white" height="28"/>
 
 </div>
@@ -44,12 +57,22 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,maven,eclipse,vscode,postman&perline=6" />
-
-<br/><br/>
-
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="28"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" height="28"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white" height="28"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="28"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="28"/>
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/🖥️_MySQL_Workbench-4479A1?style=flat-square&logoColor=white" height="28"/>
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/☁️_Render-46E3B7?style=flat-square&logoColor=white" height="28"/>
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/☁️_Aiven-FF4F00?style=flat-square&logoColor=white" height="28"/>
 
 </div>
@@ -81,7 +104,7 @@ A full-stack banking application implementing CRUD operations for banks, account
 
 **Tech:** `Java` `Spring Boot` `JPA` `Hibernate` `MySQL` `REST APIs` `HTML` `CSS` `JavaScript`
 
-📂 **[Repository](YOUR_BANK_GITHUB_REPOSITORY_LINK)**
+📂 **[Repository](https://github.com/Swamy-N17/Bank-Management-System)**
 
 ---
 
