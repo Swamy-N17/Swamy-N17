@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Swamy N
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=Aspiring+Java+Developer;Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=550&lines=Aspiring+Java+Developer;Java+Full+Stack+Developer;Backend+Development" alt="Typing SVG" />
 
 **ECE Graduate — 2026**
 
