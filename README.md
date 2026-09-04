@@ -123,6 +123,10 @@ A full-stack banking application implementing CRUD operations for banks, account
 <a href="https://github.com/Swamy-N17">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+&nbsp;
+<a href="https://swamy17-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 
 </div>
 
